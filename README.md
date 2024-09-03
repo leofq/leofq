@@ -1,7 +1,7 @@
 ## 🎀 hi, welcome!<br>
 I'm Leona, a game development student from Scotland.<br>
-🌺 I’m currently working on CPU parallelization and game development.<br>
-🌱 I’m currently learning data structures and algorithms, game programming, and system architectures.<br>
+🌱 I’m currently a 3rd year student at the University of Abertay.<br>
+🌺 I’m working on shaders, AI, and game mechanics this year.<br>
 💬 Ask me about anything, I'm happy to help! <br>
 📫 How to reach me: leonafarquhar@ymail.com
 
