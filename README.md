@@ -1,7 +1,6 @@
 ## 🎀 hi, welcome!<br>
 I'm Leona, a game development student from Scotland.<br>
-🌱 I’m currently a 3rd year student at the University of Abertay.<br>
-🌺 I’m working on shaders, AI, and game mechanics this year.<br>
+🌱 I’m currently a 4th year student at the University of Abertay.<br>
 💬 Ask me about anything, I'm happy to help! <br>
 📫 How to reach me: leonafarquhar@ymail.com
 
